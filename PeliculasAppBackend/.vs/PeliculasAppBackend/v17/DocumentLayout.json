@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\Desktop\\PeliculasApp\\PeliculasAppBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69AF9564-2F5D-46AF-9369-8B25B1EEEBEE}|API\\API.csproj|c:\\users\\aaron\\desktop\\peliculasapp\\peliculasappbackend\\api\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AF9564-2F5D-46AF-9369-8B25B1EEEBEE}|API\\API.csproj|solutionrelative:api\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\PeliculasApp\\PeliculasAppBackend\\API\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\PeliculasApp\\PeliculasAppBackend\\API\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "API\\Controllers\\PeliculaController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T05:47:33.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hn7ge4TZPU33kD6VjCSEExTTNCAIBPrLLvC7Bz5bA7LKgE194XRf6em8swxYlrdw4Yy6kfvdg4gi2XpwbzK5EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaron\\Desktop\\PeliculasApp\\PeliculasAppBackend\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
